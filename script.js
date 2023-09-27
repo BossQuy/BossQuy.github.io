@@ -57,7 +57,7 @@ async function fetchDiscordStatus() {
 		// if banner is null, set default color
 		if (banner.id == null) {
 			// bannerImage.style.backgroundColor = banner.color;
-			bannerImage.src = "https://scontent.fhan3-2.fna.fbcdn.net/v/t39.30808-6/368247476_993850791949923_379763549988421524_n.jpg?stp=cp6_dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=52f669&_nc_ohc=4I4ff6t1KZgAX_9CpDU&_nc_ht=scontent.fhan3-2.fna&oh=00_AfDD3u_ev_u1Tn0AMB-VVNLWlhSjrPXRcRAVDMq3F6pZCg&oe=6511F86B.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=52f669&_nc_ohc=zaxoYlCuYFMAX9PyHDy&_nc_ht=scontent.fhan3-2.fna&oh=00_AfCHGoVLcnCGLgv_Ku6KrhfM3ADY1g0RUoh1xBr_IrFCHA&oe=6508152B&_nc_fr=fhan3c02";
+			bannerImage.src = "https://cdn.discordapp.com/attachments/1013408229860061317/1156517040622932069/z4651059371249_42835f42d3d19a0ab2d622969a057047.jpg?ex=651541ed&is=6513f06d&hm=f8b440b341e2ba4bb0f5fea4b80a8d31d017ef0b95e7147137b990b1ab925491&";
 		}
 		// else set banner image
 		else {
